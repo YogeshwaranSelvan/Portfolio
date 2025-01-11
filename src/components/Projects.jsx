@@ -22,7 +22,7 @@ const Projects = () => {
           title: 'Portfolio',
           desc: 'Portfolio Website is a responsive React application designed to showcase projects, offering a sleek and professional online presence.',
           image: Portfolio,
-          github: ""
+          github: "https://github.com/YogeshwaranSelvan/portfolio"
         },
         {
           title: 'Netflix Clone',

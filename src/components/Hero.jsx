@@ -18,7 +18,7 @@ const Hero = () => {
                <p className='mb-4'>I'm a passionate web developer with expertise in React, Next.js, and modern web technologies. I love creating beautiful and functional website that solve real world problems.</p>
                <button className='bg-black text-white px-3 py-2 w-max rounded-md'>
                   <a
-                    href="https://drive.google.com/uc?export=download&id=1gDkAH9LTwlJF_2AML4Yc5IyTZFzoWySe"
+                    href="https://drive.google.com/uc?export=download&id=1mQmQnwJHgNbbu1w4_mizBCqWew-pzrWg"
                     target='_blank'
                     rel='noopener noreferrer'
                   >
